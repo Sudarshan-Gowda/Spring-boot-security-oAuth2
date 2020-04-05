@@ -1,0 +1,3 @@
+INSERT INTO T_USER (id, USER_NAME, PASSWORD, EMAIL, AGE) VALUES (1, 'Alex123', '$2a$04$I9Q2sDc4QGGg5WNTLmsz0.fvGv3OjoZyj81PrSFyGOqMphqfS2qKu', 'alex@gmail.con', 25);
+INSERT INTO T_USER (id, USER_NAME, PASSWORD, EMAIL, AGE) VALUES (2, 'Tom234', '$2a$04$PCIX2hYrve38M7eOcqAbCO9UqjYg7gfFNpKsinAxh99nms9e.8HwK', 'tom@hotmail.com', 35);
+INSERT INTO T_USER (id, USER_NAME, PASSWORD, EMAIL, AGE) VALUES (3, 'Adam', '$2a$04$I9Q2sDc4QGGg5WNTLmsz0.fvGv3OjoZyj81PrSFyGOqMphqfS2qKu', 'adam@outlook.com', 30);
